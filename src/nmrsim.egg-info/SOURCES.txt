@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/nmrsim/__init__.py
+src/nmrsim/core.py
+src/nmrsim.egg-info/PKG-INFO
+src/nmrsim.egg-info/SOURCES.txt
+src/nmrsim.egg-info/dependency_links.txt
+src/nmrsim.egg-info/top_level.txt
+tests/test_core.py

@@ -1,0 +1,11 @@
+prefix=/home/wgtemmer/Projects/nmr/.mamba
+exec_prefix=/home/wgtemmer/Projects/nmr/.mamba
+libdir=/home/wgtemmer/Projects/nmr/.mamba/lib
+includedir=/home/wgtemmer/Projects/nmr/.mamba/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.42.3
+Cflags: -I${includedir}/uuid
+Libs.private:  -lpthread
+Libs: -L${libdir} -luuid

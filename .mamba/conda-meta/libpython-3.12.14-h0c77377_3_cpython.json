@@ -1,0 +1,61 @@
+{
+    "arch": "x86_64",
+    "build": "h0c77377_3_cpython",
+    "build_number": 3,
+    "build_string": "h0c77377_3_cpython",
+    "channel": "conda-forge",
+    "constrains": [],
+    "depends": [
+        "__glibc >=2.17,<3.0.a0",
+        "libgcc >=15",
+        "libstdcxx >=15"
+    ],
+    "extracted_package_dir": "/home/wgtemmer/micromamba/pkgs/https/conda.anaconda.org/conda-forge/linux-64/libpython-3.12.14-h0c77377_3_cpython",
+    "files": [
+        "lib/libpython3.12.so",
+        "lib/libpython3.12.so.1.0",
+        "lib/libpython3.so"
+    ],
+    "fn": "libpython-3.12.14-h0c77377_3_cpython.conda",
+    "license": "Python-2.0",
+    "link": {
+        "source": "/home/wgtemmer/micromamba/pkgs/https/conda.anaconda.org/conda-forge/linux-64/libpython-3.12.14-h0c77377_3_cpython",
+        "type": 1
+    },
+    "md5": "d247b7632f09324c11f24b5270361385",
+    "name": "libpython",
+    "package_tarball_full_path": "/home/wgtemmer/micromamba/pkgs/https/conda.anaconda.org/conda-forge/linux-64/libpython-3.12.14-h0c77377_3_cpython.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/libpython3.12.so",
+                "path_type": "softlink",
+                "sha256_in_prefix": "c79028c811439bee8ce4f6a729a166c4d87396ebaff29861b5d8f538287f95eb",
+                "size_in_bytes": 31841520
+            },
+            {
+                "_path": "lib/libpython3.12.so.1.0",
+                "path_type": "hardlink",
+                "sha256": "e538cebda5372163c6a97e758ee6fc8c5928bd2f6b2aec401bacd5a301d04b75",
+                "sha256_in_prefix": "c79028c811439bee8ce4f6a729a166c4d87396ebaff29861b5d8f538287f95eb",
+                "size_in_bytes": 31841520
+            },
+            {
+                "_path": "lib/libpython3.so",
+                "path_type": "hardlink",
+                "sha256": "f298e706c59771f934a5496c7c22324bc758ae243dc852c69d04c43bcf6b6386",
+                "sha256_in_prefix": "f298e706c59771f934a5496c7c22324bc758ae243dc852c69d04c43bcf6b6386",
+                "size_in_bytes": 14920
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "linux",
+    "requested_spec": "",
+    "sha256": "6be16a4906d83eb8e9e04375d524f339f426a847cffd294f1ceb0611988dc17a",
+    "size": 8770625,
+    "subdir": "linux-64",
+    "timestamp": 1788392466,
+    "url": "https://conda.anaconda.org/conda-forge/linux-64/libpython-3.12.14-h0c77377_3_cpython.conda",
+    "version": "3.12.14"
+}
