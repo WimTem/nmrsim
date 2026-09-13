@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/home/wgtemmer/micromamba/envs/nmrsim/bin/python",
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
