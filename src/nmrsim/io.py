@@ -1,5 +1,3 @@
-
-
 import numpy as np
 import SLEEPY as sl
 from ase import Atoms
